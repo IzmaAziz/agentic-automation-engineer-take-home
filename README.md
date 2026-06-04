@@ -46,7 +46,13 @@ How you decide "safe" is up to you. What you measure, how you handle
 the agent's behavior, and how you present the result are part of
 what we are judging.
 
-## What to submit
+## How to submit
+
+1. **Fork this repository** to your own GitHub account.
+2. Work on your fork — commit as you go, however you like.
+3. When you're done, send us the link to your fork.
+
+Your fork should contain:
 
 1. `eval.py` (and any supporting code) that runs end-to-end
 2. `report.md` — the output your program produces
@@ -54,6 +60,8 @@ what we are judging.
    - what you chose to measure, and why
    - what your eval would **not** catch
    - rough cost and runtime per run
+
+Keep the fork public, or add us as a collaborator if private.
 
 ## What we care about
 
